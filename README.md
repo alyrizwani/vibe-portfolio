@@ -44,7 +44,7 @@ A high-end, modern personal portfolio website designed to showcase skills, exper
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/alyrizwani/vibe-portfolio.git
     ```
 2.  Open `index.html` in your web browser.
 3.  That's it! No build process or dependencies required.

@@ -52,7 +52,7 @@ A high-end, modern personal portfolio website designed to showcase skills, exper
 ## 👨‍💻 Author
 
 **Ali Raza**
-*   **Portfolio**: [Link to your live site if available]
+*   **Portfolio**: https://alyrizwani.github.io/vibe-portfolio/
 *   **Email**: alyrizwani09ig@gmail.com
 
 ---
